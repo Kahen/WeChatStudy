@@ -1,14 +1,31 @@
 {
   "pages": [
+    "pages/index3/index3",
+    "pages/index2/index2",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "dark",
-    "navigationBarBackgroundColor": "#013362",
+    "navigationBarBackgroundColor": "#003362",
     "navigationBarTitleText": "Kahen",
     "navigationBarTextStyle": "white",
     "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color":"#a24848",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "icons/index.png",
+      "selectedIconPath": "icons/home_active.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "日志",
+      "iconPath": "icons/distribute.png",
+      "selectedIconPath": "icons/dis_act.png"
+    }]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

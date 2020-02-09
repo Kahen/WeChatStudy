@@ -1,0 +1,5 @@
+<view>
+    hello world! || {{msg}}
+    <view >{{person.name}}  {{person.age}}</view>
+    <view data-id="{{title}}">title</view>
+</view>

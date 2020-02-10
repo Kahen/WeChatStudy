@@ -1,0 +1,6 @@
+<view style="color:{{color}}" >
+  style
+</view>
+<view class="{{myclass}}">
+class
+</view>

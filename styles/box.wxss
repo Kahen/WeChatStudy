@@ -1,0 +1,7 @@
+.lg_box{
+    font-size: 30rpx;
+    background-color: wheat;
+    height: 100rpx;
+    width: 100rpx;
+    color: blue;
+}

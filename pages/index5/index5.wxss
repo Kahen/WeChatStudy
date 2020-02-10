@@ -1,0 +1,7 @@
+/* pages/index5/index5.wxss */
+.box1{
+    
+    width: 100rpx;
+    height: 100rpx;
+    background-color: rgb(82, 5, 112);
+}

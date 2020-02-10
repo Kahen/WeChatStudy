@@ -2,7 +2,10 @@
   <view wx:for="{{arrays}}" wx:key="{{index}}">
     {{index}}: {{item}}
   </view>
-  <view wx:for="{{person}}" wx:key="{{index}}">
-      {{index}}:{{item}}
+  <view wx:for="{{person}}" wx:key="{{index}}" wx:for-index="key">
+      {{key}}:{{item}}
   </view>
+    <block wx:for="{{arrays}}" wx:key="{{index}}">
+    {{index}}: {{item}}
+  </block>
 </view>

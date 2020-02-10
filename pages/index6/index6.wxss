@@ -1,0 +1,3 @@
+/* pages/index6/index6.wxss */
+/* 从外部引入box.css */
+@import "../../styles/box.wxss"

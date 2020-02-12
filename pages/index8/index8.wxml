@@ -1,0 +1,8 @@
+<view hover-class="hover_class" hover-stay-time="2400">
+hover_class
+</view>
+<view >
+    <text selectable="{{true}}">index9</text>
+    <text decode="{{true}}">index  &nbsp;yes</text>
+    <text decode="{{true}}">index yes</text>
+</view>

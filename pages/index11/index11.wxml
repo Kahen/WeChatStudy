@@ -1,0 +1,10 @@
+<swiper autoplay="{{true}}" interval="500" circular="{{true}}" 
+ indicator-dots="{{true}}" indicator-color="rgba(46, 46, 46, .3)"
+ indicator-active-color="#4d78cc">
+    <swiper-item ><image mode="widthFix" src="../../images/1.jpg" /></swiper-item>
+    <swiper-item ><image mode="widthFix" src="../../images/2.jpg" /></swiper-item>
+    <swiper-item ><image mode="widthFix" src="../../images/3.jpg" /></swiper-item>
+    <swiper-item ><image mode="widthFix" src="../../images/4.jpg" /></swiper-item>
+    <swiper-item ><image mode="widthFix" src="../../images/5.jpg" /></swiper-item>
+
+</swiper>
